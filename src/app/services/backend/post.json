@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "user": "hausmaneric",
+      "tilte": "title of post",
+      "postContent": "content of post",
+      "subtitle": "subtitle of post",
+      "id": 1
+    },
+    {
+      "user": "ff",
+      "title": "ff",
+      "postContent": "ff",
+      "id": 2
+    },
+    {
+      "user": "ffdf",
+      "title": "ffds",
+      "postContent": "fd",
+      "id": 3
+    }
+  ]
+}
